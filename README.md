@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k3ith-fowl3r
 - 👀 I’m interested in ... life, liberty, and the pursuit of happiness. 
-- 🌱 I’m currently learning ... more about the practical application of design patterns.
+- 🌱 I’m currently learning ... more about AI and Machine Learning.
 - 💞️ I’m looking to collaborate on ... nothing at the moment.
 - 📫 How to reach me ... you'll need some really long arms.
 
